@@ -10,7 +10,7 @@ First, install **Node.js**, **npm**, and **Git** on your PC.
 Open the terminal and run the following command to clone this repository:
 
 ```bash
-git clone https://github.com/arifulmist/Auto_Faculty_Evaluation
+git clone https://github.com/Tamal267/Faculty_Evaluation
 ```
 
 Create a .env.local file inside the project folder and add the following credentials:
